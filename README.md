@@ -2,11 +2,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=1000&lines=I+am+a+Software+Engineer!;Lots+of+Experience+in+Full Stack, Network Management." alt="Typing SVG" /></a>
 </div>
 
-## Overview
-<div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elitesuper&theme=github" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=elitesuper&theme=github" />  
-</div>
 
 ## Achievements
 <p align="center">
